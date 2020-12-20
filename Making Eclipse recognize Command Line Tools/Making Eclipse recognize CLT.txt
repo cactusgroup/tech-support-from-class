@@ -1,0 +1,3 @@
+Open Terminal if it’s not open already.
+Type this exactly:
+	sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer

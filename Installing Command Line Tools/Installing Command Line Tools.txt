@@ -1,0 +1,3 @@
+Open Terminal.
+Type this exactly:
+	sudo xcode-select --install

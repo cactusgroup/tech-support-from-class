@@ -1,0 +1,5 @@
+1.	Uninstall Eclipse. (Follow directions in /Uninstalling Eclipse)
+2.	Install Command Line Tools (Follow directions in /Installing Command Line Tools)
+	If you already did this step, skip it.
+3.	Reinstall Eclipse. (Google “Eclipse CDT download”)
+4.	Make Eclipse recognize Command Line Tools (Follow directions in /Making Eclipse Recognize Command Line Tools)
